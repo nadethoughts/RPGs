@@ -1,5 +1,8 @@
-heading (
-    Ullr "Lightbane" Actions
+watermark (
+Derek's Game (GM: Derek || Players: Chris, Dave, Ramsey, Tyler )
+)
+title (
+Ullr "Light Bane" Abilites and Spells
 )
 
 # ACTIONS • Attacks per Action: 2
