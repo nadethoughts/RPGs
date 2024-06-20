@@ -2,7 +2,7 @@ watermark (
 Gatewalker's Game (GM: Ramsey || Players: Chris, Corey, Dave, Derek, Michelle )
 )
 title (
-Rakmar Abilites and Spells
+Level 6
 )
 
 head(

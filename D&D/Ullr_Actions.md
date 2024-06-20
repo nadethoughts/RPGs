@@ -2,7 +2,16 @@ watermark (
 Derek's Game (GM: Derek || Players: Chris, Dave, Ramsey, Tyler )
 )
 title (
-Ullr "Light Bane" Abilites and Spells
+Level 12
+-
+Gloomtstalker Ranger(4)/Assasin Rogue(3)/Battle Master Fighter(5)
+)
+
+head(
+# Ullr "Light Bane" 
+### Bubear 
+
+-
 )
 
 # ACTIONS • Attacks per Action: 2
@@ -38,7 +47,7 @@ When you make a **weapon attack roll**, you can expend one superiority die to ad
 When you hit with a weapon attack, you can expend one superiority die to **add the total to the damage roll**, and *if the target is Large or smaller, it must make a STR saving throw (DC 17). On failure, you push the target up to 15 ft. away from you.*
 -
 )
-
+=
 # BONUS ACTIONS
 #### 1st Level ((+Feat Section))
 
@@ -96,7 +105,7 @@ item(
 As a bonus action, you ***give yourself advantage on your next attack roll on the current turn***. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 -
 )
-
+=
 # REACTIONS
 #### 1st Level Spell
 item(
@@ -160,7 +169,7 @@ You can take one additional action on your turn. This can be used 1 times per sh
 -
 [ ]/Short Rest
 )
-
+=
 #### Ranger
 item(
 # Dread Ambusher (Special)
