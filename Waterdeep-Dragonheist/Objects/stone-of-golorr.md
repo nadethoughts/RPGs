@@ -1,6 +1,8 @@
 # Stone of Golorr
 ***The Stone of Golorr is a glossy, greenish-gray stone that fits in the palm of your hand. The stone is actually an  aboleth named Golorr, transformed by magic into an object.***
 
+![stone of golorr](../assets/Stone_of_golorr-5e.webp)
+
 ## **Properties**. 
 The Stone of Golorr has the following properties:
 * While attuned to the Stone of Golorr, you are immune to disease.
