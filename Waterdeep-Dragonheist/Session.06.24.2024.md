@@ -1,6 +1,6 @@
 # Chase of the Nimblewright
 
-## Location: Temple of Shananooah
+## Location: Waterdeep
 
 ## **Starting Location**
 ### Trollskull Tavern
@@ -23,6 +23,7 @@ Tiefling Sorcerer (bit of a coward)
 
 # Create a strong start.
 ## Finding the nimblewright
+* The Spring has come out in full force with Terrible rains from noon to midnight, followed by thick fog from midnight to noon. **Characters have disadvantage from perception checks when they are outside due to the inclamate weather.** 
 * Being shooed out of the Grallhund's Manor, the party only have 1 lead for the gold. They must find that nimbelwrite.
     * how are you going to approach the search?
 
