@@ -34,7 +34,7 @@ Tiefling Sorcerer (bit of a coward)
 
     * **Loot** the Niblewright has a Map on it's person with an "X" on it over in the Dockward and the name "Grinda Garloth" on it.
 
-## Grinda's House
+## Grinda's House (Towns and Taverns Book 2 Page 10)
 * Under attack from members of the Xanathar Guild for refusing to hand over the [Stone of Galorr](Objects/stone-of-golorr.md)
 * **What She did with it?** Gave to her *rat familiar* to hide the stone in her families crypt. Located in the **City of the Dead**.
 
