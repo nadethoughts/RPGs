@@ -27,20 +27,20 @@ Tiefling Sorcerer (bit of a coward)
 * Being shooed out of the Grallhund's Manor, the party only have 1 lead for the gold. They must find that nimbelwrite.
     * how are you going to approach the search?
 
-# Outline potential scenes. 
+# Outline potential scenes. (Towns and Taverns Book 2 Page 21&22)
 * The nimblewright can be found in an alley under some trash, having already accoumplished it's goal.
     * [The Stone of Galorr](Objects/stone-of-golorr.md) is not with the Nimblewright
     * The Nimblewright fights to the death.
-    * After the fight ends, the city watch (6 Vetrans) arrive and will believe any story the characters come up with about the nimblewrite. (constructs have no rights)
+    * After the fight ends, the city watch (6 Veterans) arrive and will believe any story the characters come up with about the nimblewrite. (constructs have no rights)
 
     * **Loot** the Niblewright has a Map on it's person with an "X" on it over in the Dockward and the name "Grinda Garloth" on it.
 
-## Grinda's House (Towns and Taverns Book 2 Page 10)
+## [Grinda](NPCs/grinda-garloth.md)'s House (Towns and Taverns Book 2 Page 10)
 * Under attack from members of the Xanathar Guild for refusing to hand over the [Stone of Galorr](Objects/stone-of-golorr.md)
 * **What She did with it?** Gave to her *rat familiar* to hide the stone in her families crypt. Located in the **City of the Dead**.
 
 ## Off to the **City of the Dead**
-* *Aric* and *Leaf* know that the **City of the Dead** is Guarded. 
+* ***Aric*** and *Leaf* **know** that the **City of the Dead** is Guarded. 
 * On their way to the **City of the Dead** the Characters are followed by a *gazer* (for Xanathar to figure out where the stone is) 
     * *Stealth: **19** against Charactes Passive Perception to discover it*
 
@@ -54,6 +54,7 @@ Tiefling Sorcerer (bit of a coward)
 * The Mausoleum is already broken into with the [Stone of Galorr](Objects/stone-of-golorr.md) no where to be seen as well as the remains of [Grinda's](NPCs/grinda-garloth.md) ancestors.
 * Upon Searching the Crypt, they do find a clue as to who the grave robbers are.
     * Characters who search the underground crypts can find a shiny steel key lying in the dust on the floor. One of the grave robbers dropped it while looting the crypts.
+## (Towns and Taverns Book 2 Page 37)
 * When leaving the crypt, the players are Jumped by 4 Duergar **Xanathar Guild Members**
 
 
