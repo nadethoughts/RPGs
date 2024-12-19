@@ -1,10 +1,10 @@
 # Characters:
 | Player | Character                    | Metahuman Type | Archtype                       | Gender |
 | ------ | ---------------------------- | -------------- | ------------------------------ | ------ |
-| Ian    | Golem, The Mystic Cyberninja | Human          | Aspected Shaman/Street Samurai | Male   |
-| Derek  | Hairy, The Private Eye       | Orc            | Investigator                   | Male   |
-| Ramsey | Maiestro, The Gunslinger     | Human          | Street Samurai                 | Female |
 | Dave   | Hotshot, The Combat Mage     | Dwarf          | Hermetic Mage                  | Female |
+| Derek  | Hairy, The Private Eye       | Orc            | Investigator                   | Male   |
+| Ian    | Golem, The Mystic Cyberninja | Human          | Aspected Shaman/Street Samurai | Male   |
+| Ramsey | Maiestro, The Gunslinger     | Human          | Street Samurai                 | Female |
 # Session
 ## The Job (Meeting the Johnson) (Dec 20)
 - Met the Johnson at a bar in Tacoma called the Circuit
